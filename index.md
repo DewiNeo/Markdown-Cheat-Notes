@@ -152,7 +152,8 @@ this is order list, using `number. `
 ## Table
  Tables are a bit more complicated than the other elements. To create a table we need to create a list of rows where each column is separated by a `|` and each row starts and ends with a `|` as well. Below the first row you need to add a row where each column consists of at least three `-` and optionally a `:` character on either side of the `-`s. The `:` character is used to align the text in the column. If you add a `:` character on the left side of the `-`s then the text will be left aligned. If you add a `:` character on the right side of the `-`s then the text will be right aligned. If you add a `:` character on both sides of the -`s` then the text will be center aligned.   
  Example: 
- 1. a column without any align   
+ 1. a column without any align  
+ 2.  
     | Col 1 | Col 2   |
     | ----- | ------- |
     | This  | is      |
@@ -160,13 +161,13 @@ this is order list, using `number. `
     | table | with    |
     | two   | columns |
 
- 2. a column with align  
+ 3. a column with align  
    
     | Right  | Center | Left |
     | -----: | :----: | :--- |
     | ---:   | :---:  | :--- |
     | R      | C      | L    |
-    
+
 > PS.  
 > It is okay if the table does not look neat while writing it. Once rendered, it will automatically become properly aligned as long as the `|` and `-` syntax is correct.
 
