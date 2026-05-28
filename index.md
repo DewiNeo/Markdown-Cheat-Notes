@@ -1,9 +1,10 @@
-g# **Markdown CHEAT NOTES 🤫**
+# **Markdown CHEAT NOTES 🤫**
 
 Markdown is just a way to format text based on diffrent characters and diffrent ways that you write out the text to make it show up how you want. Generally markdown's going to be rendered out as HTML but you could take a markdown file and render it out howebever you want. you could render it to a PDF  
 
 ## Heading introduction
-Just adding # before the text and you will get Heading format.
+Just adding # before the text and you will get Heading format.  
+
 |characters| heading |
 |----------|---------|
 |`#`       |heading 1|
@@ -12,6 +13,7 @@ Just adding # before the text and you will get Heading format.
 |`#####`   |heading 4|
 |`######`  |heading 5|
 |`#######` |heading 6|  
+
 
 ## Bold / Italics
 Just surround it by to `*` or `_`   
